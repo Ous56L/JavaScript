@@ -1,0 +1,21 @@
+[{
+    "name" : "Sonic",
+    "age" : 16 ,
+    "isEmployed": true,
+    "hobbies": ["Chilling","Sleeping","Racing"]
+},
+{
+    "name" : "Shadow",
+    "age" : 17 ,
+    "isEmployed": false
+},
+{
+    "name" : "Silver",
+    "age" : 15 ,
+    "isEmployed": true
+},
+{
+    "name" : "kuncles",
+    "age" : 16 ,
+    "isEmployed": false
+}]
