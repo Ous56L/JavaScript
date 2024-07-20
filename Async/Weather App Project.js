@@ -105,3 +105,5 @@ function displayError(message){
     card.style.display = "flex";
     card.appendChild(errorDisplay);
 }
+
+// end
